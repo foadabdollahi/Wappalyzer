@@ -9226,7 +9226,16 @@
 			"icon": "xui.png",
 			"script": "[^a-z]xui.*\\.js",
 			"website": "xuijs.com"
-		}
+		},
+		"Adnegah advertising Network": {
+			"cats": [
+				36
+			], 
+			"html": "<iframe [^>]*src=\"[^\"]+adnegah\\.net",
+			"icon": "Adnegah.png",
+			"script": "*\\.adnegah\\.net\\*\\.js",
+			"website": "adnegah.net"
+},
 	},
 	"categories": {
 		"1": "CMS",
