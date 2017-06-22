@@ -9230,8 +9230,9 @@
 		"Adnegah": {
 			"cats": [
 				36
-			],
-			"env": "^ados(?:Results)?$",
+			],"headers": {
+				"X-Advertising-By": "adnegah.net"
+			},
 			"html": "<iframe [^>]*src=\"[^\"]+adnegah\\.net",
 			"icon": "adnegah.png",
 			"script": "[^a-z]adnegah.*\\.js",
