@@ -9237,6 +9237,15 @@
 			"icon": "adnegah.png",
 			"script": "[^a-z]adnegah.*\\.js",
 			"website": "Adnegah.net"
+		},
+		"Sigma Advertising": {
+			"cats": [
+				36
+			],"headers": {
+				"X-Advertising-By": "sigmaad.com"
+			},
+			"icon": "sigmaad.png", 
+			"website": "sigmaad.com"
 		}
 	},
 	"categories": {
