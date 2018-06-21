@@ -9242,10 +9242,10 @@
 			"cats": [
 				36
 			],"headers": {
-				"X-Advertising-By": "sigmaad.com"
+				"X-Advertising-By": "sigmaad\\.com"
 			},
 			"icon": "sigmaad.png", 
-			"website": "sigmaad.com"
+			"website": "https://sigmaad.com"
 		}
 	},
 	"categories": {
